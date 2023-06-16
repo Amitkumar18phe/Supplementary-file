@@ -1,0 +1,459 @@
+Supplementary Table S1. UHPLC-HRAMSS-based metabolic profiling of PHE
+S.No.	Name	Class	Formula	Delta Mass [ppm]	Calc. MW	RT [min]	 Area (Max.)	Total area (Max.)	% Peak area 	Analysis mode
+1.		4,5-Dicaffeoylquinic acid	Flavonoid	C25 H24 O12	1.21	516.1274	7.449	576214331.5	665837043.5	0.263	[M-H]_
+2.		Apigenin 7-O-glucuronide	Flavonoid	C21 H18 O11	-3.95	446.08315	7.555	149684651.2	149684651.2	0.059	[M+H]+
+3.		Apigenin	Flavonoid	C15 H10 O5	-4	270.05278	8.756	39232111.5	101074411.5	0.040	[M+H]+
+4.		Cerarvensin 2"-O-rhamnoside	Flavonoid	C26 H28 O13	1.95	548.15406	7.869	1665007981	1665007981	0.658	[M-H]_
+5.		Genistein	Flavonoid	C15 H10 O5	2.15	270.0534	8.762	54434507.23	54434507.2	0.022	[M-H]_
+6.		Quercetin	Flavonoid	C15 H10 O7	0.99	302.04295	8.152	15164818.6	50213415.3	0.020	[M-H]_
+7.		Catechin-7-methyl ether	Flavonoid	C16 H16 O6	-3.74	304.09355	7.759	134699652.6	134699652.6	0.053	[M+H]+
+8.		Trifolin	Flavonoid	C21 H20 O11	1.24	448.10112	7.566	127208015.9	630359942.6	0.249	[M-H]_
+9.		Isorhamnetin	Flavonoid	C16 H12 O7	1.83	316.05888	9.261	19192967.0	37837315.9	0.015	[M-H]_
+10.		Aureusidin 6-glucuronide	Flavonoid	C21 H18 O12	1.36	462.08046	7.704	591602811.9	591602811.9	0.234	[M-H]_
+11.		Rutin	Flavonoid	C27 H30 O16	0.62	610.15376	7.099	42467443.3	42467443.3	0.017	[M-H]_
+12.		Daidzein 7-O-glucoside-4'-O-apioside	Flavonoid	C26 H28 O13	-4.43	548.15056	7.873	1432690167.9	1554088325	0.614	[M+H]+
+13.		Persicogenin 3'-glucoside	Flavonoid	C23 H26 O11	1.52	478.14824	6.627	270601160.1	1976570002	0.781	[M-H]_
+14.		Hesperidin	Flavonoid	C28 H34 O15	1.5	610.19069	6.695	851413186.1	851413186.1	0.336	[M-H]_
+15.		kaempferol	Flavonoid	C15 H10 O6	-3.7	286.04668	7.617	142942886.0	173637148.4	0.069	[M+H]+
+16.		luteolin	Flavonoid	C15 H10 O6	1.19	286.04808	8.335	63825716.6	86306012.4	0.034	[M-H]_
+17.		α-Lapachone	Flavonoid	C15 H14 O3	-4.7	242.09316	9.437	658159300.1	658159300.1	0.260	[M+H]+
+18.		Berberine	Alkaloid	C20 H17 N O4	-3.34	335.11464	7.143	16301382253.3	16301382253.3	6.442	[M+H]+
+19.		Oxyberberine	Alkaloid	C20 H17 N O5	-3.91	351.1093	7.471	357966244.16	357966244.2	0.141	[M+H]+
+20.		Gallic acid	Phenolic acid	C7 H6 O5	-3.66	170.0209	5.816	316194954.2	1920874649.1	0.759	[M+H]+
+21.		4-O-Methylgallic acid	Phenolic acid	C8 H8 O5	-4.23	184.03639	4.823	232997637.1	232997637.1	0.092	[M+H]+
+22.		Digallic acid	Phenolic acid	C14 H10 O9	1.14	322.03285	5.094	14936173.2	14936173.2	0.006	[M-H]_
+23.		Ellagic acid	Polyphenolic	C14 H6 O8	-4.65	302.00486	5.847	140450767.8	1186917742.2	0.469	[M+H]+
+24.		chebulagic acid	Polyphenolic	C41 H30 O27	1.51	954.09889	7.08	23928784.7	23928784.7	0.009	[M-H]_
+25.		Chebulic acid	Polyphenolic	C14 H12 O11	1.78	356.0386	0.815	820533485.7	930040462.1	0.368	[M-H]_
+26.		Corilagin	Polyphenolic	C27 H22 O18	2.35	634.08211	5.849	926420516.8	926420516.8	0.366	[M-H]_
+27.		6-O-Galloyl-glucose	Tannins	C13 H16 O10	1.49	332.07484	0.978	354069874.1	354069874.1	0.140	[M-H]_
+28.		Ferulic acid	Phenolic acid	C10 H10 O4	1.79	194.05826	7.56	99947760.3	374402311.5	0.148	[M-H]_
+29.		Caffeic acid	Phenolic acid	C9 H8 O4	2.41	180.04269	5.603	406465710.0	606844362.3	0.240	[M-H]_
+30.		D-(-)-Quinic acid	Organic acid	C7 H12 O6	1.88	192.06375	1.394	109974461.1	398186318.0	0.157	[M-H]_
+31.		DL-Malic acid	Organic acid	C4 H6 O5	1.18	134.02168	0.81	975922212.6	1204007699.2	0.476	[M-H]_
+32.		Andrographolide	Terpenoid	C20 H30 O5	-3.76	350.20801	8.207	2755145164.8	3298603769.6	1.304	[M+H]+
+33.		3-O-β-D-Glucopyranosylandrographolide	Terpenoid	C26 H40 O10	1.57	512.26295	8.746	70763102.1	70763102.1	0.028	[M-H]_
+34.		Dibutyl phthalate	Organic acid ester	C16 H22 O4	-3.98	278.1507	10.689	2708884546.4	3546758239.3	1.402	[M+H]+
+35.		9,10-Dihydroxystearic acid	Fatty acid	C18 H36 O4	0.7	316.26158	10.745	19246597.3	82266036.6	0.033	[M-H]_
+36.		α-Eleostearic acid	Fatty acid	C18 H30 O2	-3.55	278.22359	11.111	1263995369.0	1294626168.6	0.512	[M+H]+
+37.		p-cymene	Monoterpene	C10 H14	-3.34	134.1091	7.951	24051802.8	71259363.9	0.028	[M+H]+
+38.		Acetophenone	Alkyl-phenylketone	C8 H8 O	-3.96	120.05704	2.426	137590918.8	192434876.9	0.076	[M+H]+
+39.		16-Hydroxyhexadecanoic acid	Fatty acid	C16 H32 O3	1.93	272.23567	11.022	19958325.9	23433999.7	0.009	[M-H]_
+40.		Oleanolic acid	Triterpenoid	C30 H48 O3	-4.47	456.35831	10.943	191713483.1	219583459.9	0.087	[M+H]+
+41.		Cinnamic acid	Organic acid	C9 H8 O2	-4.59	148.05175	0.821	75495782.6	515806247.7	0.204	[M+H]+
+42.		Chlorogenic acid	Phenolic acid	C16 H18 O9	-4.87	354.09336	5.397	612034050.1	1415255105	0.559	[M+H]+
+43.		Neochlorogenic acid	Polyphenolic	C16 H18 O9	1.71	354.09569	5.532	124855357.1	181015218	0.072	[M-H]_
+44.		Piperine	Alkaloid	C17 H19 N O3	-3.97	285.13536	9.767	420124923.1	420124923.1	0.166	[M+H]+
+45.		4-Undecylbenzenesulfonic acid	Arenesulfonic acid	C17 H28 O3 S	2.35	312.17665	11.818	427621707.6	3122969044	1.234	[M-H]_
+46.		1-Dodecanesulfonic acid	Organosulfonic acid	C12 H26 O3 S	2.67	250.16093	11.39	5153825698	5153825698	2.037	[M-H]_
+47.		9-Oxo-10(E),12(E)-octadecadienoic acid	Fatty acid	C18 H30 O3	-4.34	294.21822	11.127	630619640.0	1863679241	0.737	[M+H]+
+48.		(+/-)13-HODE	Fatty acid	C18 H32 O3	1.98	296.23573	11.12	1281866185	1281866185	0.507	[M-H]_
+49.		13(S)-HOTrE	Fatty acid	C18 H30 O3	2.59	294.22026	10.814	5029664383.7	5283455280	2.088	[M-H]_
+50.		9S,13R-12-Oxophytodienoic acid	Prostanoid 	C18 H28 O3	-4.2	292.20262	10.771	386064067.6	537177323	0.212	[M+H]+
+51.		(15Z)-9,12,13-Trihydroxy-15-octadecenoic acid	Fatty acid	C18 H34 O5	0.8	330.24089	9.81	130054198.7	558293223.6	0.221	[M-H]_
+52.		Eicosatetraynoic acid	Fatty acid 	C20 H24 O2	-3.92	296.17647	9.176	4776666126	4776666126	1.888	[M+H]+
+53.		6-Acetylcodeine	Opioid	C20 H23 N O4	-4.12	341.1613	5.812	2898616445	2898616445	1.146	[M+H]+
+54.		Hydroxy-1,4-benzoquinone	Organic	C6 H4 O3	3.6	124.01649	1.118	5440086710	5440086710	2.150	[M-H]_
+ 
+Table S2. Body weight of streptozotacin-induced diabetic rats before and after oral administration of PHE.
+Treatment group	Initial weight (g)	Final weight (g)	Alteration in weight 
+GP-1	204.52±9.20	215.85±1.49	11.33
+
+GP-2	228.69±12.69#	153.36±45.01#	-75.33
+
+GP-3	205.84±7.31*	210.18±8.34*	4.33
+
+GP-4	203.87±4.99*	214.87±9.42*	11.00
+
+GP-5	202.34±3.70*	223.04±6.26**	20.70
+
+GP-6	201.52±4.65*	208.18±8.42*	6.67
+
+Data are expressed as mean ± SEM (n = 6). *Statistically significant (p < 0.05) to GP-2; # statistically significant (p < 0.05) to GP-1; ** P < 0.01 is considered as very significant. PHE: Poly herbal extract; Weight loss (↓); Weight gain (↑).
+
+Table S3. Fasting blood glucose levels of streptozotacin-induced diabetic rats before and after oral administration of PHE.
+Treatment group	Fasting blood glucose level (mg/dl)
+	Before STZ admin.	After 72h of STZ Admin.	After 7 days treatment of PHE	After 14 days treatment of PHE	After 21 days treatment of PHE	After 28 days treatment of PHE
+GP-1	71.68±1.61	71.68±1.61	73.88±0.54	73.01±1.68	77.01±1.81	77.01±1.81
+GP-2	76.84±5.96	287.83±72.48#	318.84±126.32##	348.84±189.00#	369.50±216.33#	398.84±224.46#
+GP-3	79.38±1.27	271.86±66.18#	150.02±12.07*	129.19±31.55*	110.19±3.24*	90.19±7.04*
+GP-4	74.19±0.92	284.43±74.24#	134.91±6.01*	128.24±7.77*	107.24±2.16*	81.24±5.36*
+GP-5	78.73±1.53	261.64±49.98#	120.98±5.75*	112.31±6.43*	89.98±2.55*	76.64±3.66*
+GP-6	69.17±3.70	302.18±97.72#	162.08±56.65*	139.88±24.64	125.55±35.73	102.21±21.19*
+Data are expressed as mean ± SEM (n = 6). *Statistically significant (p < 0.05) to GP-2; # statistically significant (p < 0.05) to GP-1; ## P < 0.01 is considered as very significant. PHE: Poly herbal extract.
+
+Table S4. Summary of raw sequence data and quality checks
+Sample ID	No. of Reads	GC %	Read length	%Q20
+
+GP-1	105194	54	301	99.08
+GP-2	148638	53	301	99.08
+GP-3	129190	54	301	99.09
+GP-4	123734	54	301	99.09
+GP-5	105590	53	301	99.29
+GP-6	115256	54 	301	99.15
+ 
+Figure S1. Histogram of reads. A) Per sequence quality scores and B) Mean quality scores.
+
+
+
+  
+
+Figure S2. Standard graph of acetic acid (with R2 = 0.998) and propionic acid (with R2 =0.996).
+Supplementary Table S5.  Gut microbiota diversity at Phylum, Genus and Species levels
+Gut microbiota diversity at Phylum level
+OTU	Size	Kingdom	Phylum	GP-1	GP-2	GP-3	GP-4	GP-5	GP-6
+Otu001	135960	Bacteria	Firmicutes	60.21	87.99	81.71	89.13	55.81	72.16
+Otu002	25040	Bacteria	Bacteroidetes	24.26	0.6	12.65	2.18	24.12	12.5
+Otu003	5850	Bacteria	Actinobacteria	1.5	7.05	1.47	1.49	4.62	5.34
+Otu004	5489	Bacteria	TM7	4.53	0.14	0.35	3.85	5.27	3.26
+Otu005	5258	Bacteria	Proteobacteria	2.6	3.14	3.45	0.32	6.13	1.83
+Otu006	2506	Archaea	Euryarchaeota	1.79	0.62	0	1.54	0.53	3.89
+Otu007	1262	Bacteria	Planctomycetes	2.49	0.02	0	0	0.76	0.14
+Otu008	840	Bacteria	Verrucomicrobia	1.46	0	0.02	0.05	0.8	0.02
+Otu009	610	Bacteria	Tenericutes	0.19	0	0.01	0.12	1.51	0.3
+Otu010	454	Bacteria	Chlamydiae	0.01	0.01	0.14	1.12	0.01	0.16
+Otu011	441	Bacteria	Cyanobacteria	0.2	0.39	0.14	0.16	0.29	0.35
+Otu012	302	Bacteria	Spirochaetes	0.66	0.02	0	0.03	0.06	0.01
+Otu013	26	Bacteria	Elusimicrobia	0.05	0	0	0.01	0	0
+Otu014	17	Bacteria	Fusobacteria	0	0	0.01	0	0.04	0
+Otu015	14	Bacteria	Lentisphaerae	0.03	0	0	0	0.01	0
+Otu016	12	Bacteria	Deferribacteres	0	0	0.02	0	0.01	0.01
+Otu017	9	Bacteria	Acidobacteria	0	0.01	0	0	0.01	0.01
+Otu018	8	Bacteria	Chloroflexi	0.01	0.01	0	0	0	0.01
+Otu019	3	Bacteria	OP11	0	0	0.01	0	0	0
+Otu020	3	Bacteria	Gemmatimonadetes	0	0	0	0	0	0.01
+Otu021	2	Bacteria	OD1	0	0	0	0	0.01	0
+Otu022	1	Bacteria	Nitrospirae	0	0	0	0	0	0
+Otu023	1	Bacteria	WPS-2	0	0	0	0	0	0
+Otu024	1	Bacteria	Fibrobacteres	0	0	0	0	0	0
+ 
+
+Table S5 continu……..
+Gut microbiota diversity at Genus level
+OTU	Size	Kingdom	Phylum	Class	Order	Family	Genus	GP-1	GP-2	GP-3	GP-4	GP-5	GP-6
+Otu001	25303	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	21.38	10.32	49.15	1.32	0.68	29.36
+Otu002	11099	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	7.38	3.1	12.46	18.99	2.21	6.51
+Otu003	8625	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	SMB53	3.77	11.92	6.57	10.61	6.79	3.31
+Otu004	7336	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	11.38	0.25	6.25	0.31	17.02	5.02
+Otu005	7188	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	11.86	0.58	2.07	4.78	5.58	11.51
+Otu006	6689	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum	1.14	14.38	2.22	0.07	5.3	12.86
+Otu007	5445	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Atopostipes	0	10.17	0	15.89	0.03	0.01
+Otu008	4554	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	0.67	2.17	0.01	14.66	6.17	0.05
+Otu009	4471	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira	3.46	0.04	5.34	0.38	11.39	4.33
+Otu010	3775	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	1.95	11.48	0.01	4.83	0.34	0.09
+Otu011	3451	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Facklamia	0.03	13.74	0	3.21	0.66	0.01
+Otu012	3003	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	1.22	6.44	1.66	0.1	0.64	5.12
+Otu013	2519	Bacteria	Firmicutes	Bacilli	Turicibacterales	Turicibacteraceae	Turicibacter	2.05	2.84	0.69	5.42	0.87	0.21
+Otu014	2483	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	3.2	0.73	0	2.2	1.15	5.37
+Otu015	2242	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Paraprevotellaceae]	CF231	6.31	0.01	0.45	0.53	4.14	0.43
+Otu016	1877	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Jeotgalicoccus	0.03	0.19	0	7.85	0.95	0.01
+Otu017	1836	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Paraprevotellaceae]	[Prevotella]	5.12	0.02	0.81	0.12	2.15	0.98
+Otu018	1610	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	3.52	0.08	1.29	0.36	2.7	0.31
+Otu019	1461	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	1.96	0.11	1.74	0.15	3.07	0.73
+Otu020	1392	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium	1.18	0.11	0.02	0.43	7.96	0.09
+Otu021	1264	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium	1.25	0.03	1.09	0.11	2.78	1.76
+Otu022	989	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Clostridium	0.66	0.43	0.69	1.57	1.75	0.1
+Otu023	970	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	p-75-a5	1.27	0.01	0.59	0.03	2.97	0.84
+Otu024	852	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	0	3	0	1.23	0.01	0.01
+Otu025	824	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	0.46	0.01	1.15	0.11	1.83	0.92
+Otu026	807	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Phascolarctobacterium	1.23	0	2.06	0	0	0
+Otu027	652	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	0	3.36	0	0	0.01	0
+Otu028	642	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia	0.06	1.09	0.14	0.93	0.22	0.81
+Otu029	519	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	0.02	0	0.24	0	0.14	2.33
+Otu030	512	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Sutterella	0	0.01	0.74	0	1.17	0.93
+Otu031	492	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	0.94	0.69	0.09	0	0.12	0.59
+Otu032	419	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	1.41	0.01	0.18	0.07	0.15	0.11
+Otu033	412	Bacteria	Chlamydiae	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydia	0.01	0.01	0.2	1.43	0.02	0.22
+Otu034	372	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Sporosarcina	0	1.54	0	0.32	0.04	0
+Otu035	358	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Anaerovibrio	0.01	0	0.24	0	0.02	1.56
+Otu036	335	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Ruminococcus]	0.13	0.13	0.22	0.24	0.19	0.79
+Otu037	276	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Enterococcus	0.06	0.33	0.13	0.23	0.22	0.47
+Otu038	221	Bacteria	Spirochaetes	Spirochaetes	Spirochaetales	Spirochaetaceae	Treponema	0.86	0.02	0	0.04	0.11	0.01
+Otu039	202	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Clostridium	0.6	0.06	0.03	0	0.15	0.16
+Otu040	193	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	0.07	0.02	0.07	0.51	0.21	0.1
+Otu041	193	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	0	0.01	0	0	1.48	0.03
+Otu042	178	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum	0.14	0	0.05	0.01	0.81	0.16
+Otu043	178	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Paraprevotellaceae]	YRC22	0.17	0	0.37	0	0.29	0.04
+Otu044	163	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	0.21	0.01	0.09	0	0.43	0.2
+Otu045	158	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	0.15	0.02	0.21	0	0.38	0.1
+Otu046	144	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Staphylococcus	0.35	0.14	0	0.13	0.07	0
+Otu047	137	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	rc4-4	0.5	0	0	0	0.18	0.01
+Otu048	111	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospira	0	0	0.01	0	0.3	0.37
+Otu049	103	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Veillonella	0	0	0.02	0	0.68	0.07
+Otu050	94	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium	0.22	0	0.05	0	0.18	0.04
+Otu051	93	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	0.15	0	0	0	0.46	0.01
+Otu052	86	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Olsenella	0	0	0.03	0	0	0.42
+Otu053	76	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Paraprevotellaceae]	Paraprevotella	0.02	0	0.16	0	0.23	0.01
+Otu054	63	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Weissella	0.02	0.01	0	0.24	0.03	0
+Otu055	58	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Butyricicoccus	0.13	0	0.01	0	0.15	0.04
+Otu056	47	Bacteria	Firmicutes	Clostridia	Clostridiales	[Mogibacteriaceae]	Anaerovorax	0.14	0	0	0	0.12	0.01
+Otu057	46	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Defluviitalea	0.06	0	0	0	0.26	0.01
+Otu058	42	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Macrococcus	0	0	0	0.15	0.07	0.01
+Otu059	41	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes	0.1	0	0.01	0	0.08	0.03
+Otu060	35	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Rothia	0.01	0.01	0	0	0.18	0.04
+Otu061	33	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Flexispira	0.04	0	0.08	0	0.02	0.01
+Otu062	32	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	0.04	0.01	0.01	0.05	0.07	0
+Otu063	31	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	02d06	0.07	0	0.01	0.01	0.06	0.02
+Otu064	31	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Oxalobacter	0.14	0	0	0	0	0
+Otu065	27	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	0	0.04	0	0.04	0.06	0.02
+Otu066	24	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	0.05	0	0	0.03	0.02	0.02
+Otu067	20	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	0	0	0	0	0.12	0.02
+Otu068	20	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	0	0.1	0	0	0	0
+Otu069	20	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Trichococcus	0	0.02	0	0	0.14	0
+Otu070	19	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	0	0	0	0	0.14	0.01
+Otu071	18	Bacteria	Planctomycetes	Planctomycetia	Pirellulales	Pirellulaceae	planctomycete	0.06	0	0	0	0.03	0
+Otu072	18	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila	0	0	0.02	0.02	0.04	0.02
+Otu073	18	Archaea	Euryarchaeota	Thermoplasmata	E2	[Methanomassiliicoccaceae]	vadinCA11	0.06	0	0	0.01	0	0
+Otu074	18	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	0.08	0	0	0	0	0
+Otu075	16	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus	0	0	0.04	0	0.03	0.01
+Otu076	16	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Alcaligenes	0	0.07	0	0	0.02	0
+Otu077	16	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	RFN20	0.02	0	0	0.01	0.05	0.01
+Otu078	15	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	0.03	0	0.01	0	0.05	0.01
+Otu079	14	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Papillibacter	0	0	0.05	0	0.02	0
+Otu080	14	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Virgibacillus	0	0.04	0	0.03	0	0.01
+Otu081	12	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Pediococcus	0.01	0	0.02	0	0.02	0
+Otu082	12	Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Mucispirillum	0	0	0.02	0	0.02	0.01
+Otu083	12	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	0.03	0.01	0	0	0.02	0.01
+Otu084	12	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	0.01	0.01	0.02	0	0.01	0.01
+Otu085	11	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Odoribacteraceae]	Odoribacter	0	0	0.01	0.02	0.03	0
+Otu086	11	Bacteria	Firmicutes	Clostridia	Clostridiales	Dehalobacteriaceae	Dehalobacterium	0	0	0	0	0.03	0.03
+Otu087	11	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	0	0	0	0	0.09	0
+Otu088	11	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Shuttleworthia	0.04	0	0	0	0	0.01
+Otu089	10	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Anaerofustis	0.02	0.02	0	0	0	0.01
+Otu090	10	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	AF12	0	0	0	0.01	0.02	0.02
+Otu091	10	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Odoribacteraceae]	Butyricimonas	0.03	0	0	0.01	0	0.01
+Otu092	9	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	0	0.01	0	0.01	0.02	0.01
+Otu093	9	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	0	0.01	0.01	0	0.03	0
+Otu094	9	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	0	0	0	0	0.03	0.02
+Otu095	8	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	0	0	0.02	0	0.01	0.01
+Otu096	7	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Selenomonas	0	0	0	0	0.03	0.01
+Otu097	7	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Shigella	0.03	0	0	0	0	0
+Otu098	7	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	0.02	0	0	0	0.02	0
+Otu099	7	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	0.01	0	0	0	0.02	0.01
+Otu100	7	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	0	0	0	0	0.04	0.01
+Otu101	7	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Solibacillus	0	0	0	0	0.06	0
+Otu102	7	Bacteria	Spirochaetes	Spirochaetes	Sphaerochaetales	Sphaerochaetaceae	Sphaerochaeta	0.03	0	0	0	0	0
+Otu103	5	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Kaistobacter	0	0.01	0	0	0.01	0.01
+Otu104	5	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	0	0	0	0	0.04	0
+Otu105	5	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	0	0	0.02	0	0	0
+Otu106	5	Bacteria	Firmicutes	Bacilli	Gemellales	Gemellaceae	Gemella	0	0	0	0	0.02	0.01
+Otu107	5	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Anaerorhabdus	0	0	0.02	0	0.01	0
+Otu108	4	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Sporobacter	0	0	0	0	0.02	0.01
+Otu109	4	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Desemzia	0	0	0	0.02	0	0
+Otu110	4	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Robinsoniella	0.01	0.01	0	0	0	0
+Otu111	4	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	Anaerobiospirillum	0	0	0.01	0	0	0.01
+Otu112	4	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Kineosporiaceae	Quadrisphaera	0	0	0	0	0.02	0.01
+Otu113	3	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Microbacterium	0	0.01	0	0	0.01	0
+Otu114	3	Bacteria	Cyanobacteria	Oscillatoriophycideae	Chroococcales	Xenococcaceae	Chroococcidiopsis	0.01	0	0	0	0	0
+Otu115	3	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Dermabacteraceae	Brachybacterium	0	0.01	0	0	0.02	0
+Otu116	3	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenella	0.01	0	0	0	0	0
+Otu117	3	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	0	0	0	0	0.01	0.01
+Otu118	3	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Helcococcus	0	0	0	0	0.02	0
+Otu119	2	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Succinispira	0	0	0.01	0	0	0
+Otu120	2	Bacteria	Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae	Thermoactinomyces	0	0	0	0	0	0
+Otu121	2	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Lentibacillus	0	0.01	0	0	0	0
+Otu122	2	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus	0	0	0	0	0.01	0.01
+Otu123	2	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	[Clostridium]	0	0	0	0	0	0
+Otu124	2	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Curtobacterium	0	0.01	0	0	0	0
+Otu125	2	Bacteria	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae	Candidatus_Solibacter	0	0.01	0	0	0	0
+Otu126	2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Magnetospirillum	0	0	0	0	0.01	0.01
+Otu127	2	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Rhodobacter	0	0.01	0	0	0	0
+Otu128	2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Ochrobactrum	0	0	0	0	0.01	0
+Otu129	2	Bacteria	Spirochaetes	Spirochaetes	Sphaerochaetales	Sphaerochaetaceae	wall-less	0.01	0	0	0	0	0
+Otu130	2	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	cc_115	0	0	0	0	0	0.01
+Otu131	2	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Steroidobacter	0	0	0	0	0	0.01
+Otu132	2	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Atopococcus	0	0	0	0.01	0	0
+Otu133	2	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Hespellia	0	0	0	0	0.01	0
+Otu134	2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Macellibacteroides	0.01	0	0	0	0	0
+Otu135	2	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Mitsuokella	0	0	0.01	0	0	0
+Otu136	2	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Brevibacteriaceae	Brevibacterium	0	0	0	0	0.02	0
+Otu137	2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Barnesiellaceae]	Barnesiella	0	0	0	0	0	0
+Otu138	2	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Bacillus	0	0	0	0	0.02	0
+Otu139	1	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	Peredibacter	0	0	0	0	0	0
+Otu140	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Cellulosibacter	0	0	0	0	0	0
+Otu141	1	Bacteria	Lentisphaerae	[Lentisphaeria]	Victivallales	Victivallaceae	Victivallis	0	0	0	0	0	0
+Otu142	1	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Erwinia	0	0	0	0	0	0.01
+Otu143	1	Bacteria	Firmicutes	Clostridia	Clostridiales	[Mogibacteriaceae]	Mogibacterium	0	0	0	0	0	0
+Otu144	1	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Salinicoccus	0	0	0	0	0	0
+Otu145	1	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Actinobacillus	0	0.01	0	0	0	0
+Otu146	1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Melissococcus	0	0	0	0	0.01	0
+Otu147	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Rhodoplanes	0	0	0	0	0	0.01
+Otu148	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella	0	0	0	0	0.01	0
+Otu149	1	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	0	0	0	0	0.01	0
+Otu150	1	Bacteria	Cyanobacteria	Oscillatoriophycideae	Chroococcales	Xenococcaceae	Stanieria	0	0	0	0	0.01	0
+Otu151	1	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosomonas	0	0	0	0	0	0
+Otu152	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Marvinbryantia	0	0	0	0	0.01	0
+Otu153	1	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Coriobacterium	0	0	0	0	0.01	0
+Otu154	1	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae	Aquicella	0	0	0	0	0.01	0
+Otu155	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micromonosporaceae	Catellatospora	0	0	0	0	0	0.01
+Otu156	1	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	0	0	0	0	0	0
+Otu157	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptostreptococcus	0	0	0	0	0	0.01
+Otu158	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Glycomycetaceae	Glycomyces	0	0	0	0	0	0
+Otu159	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	0	0	0	0	0	0.01
+Otu160	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Pseudobutyrivibrio	0	0	0	0	0.01	0
+Otu161	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Aurantimonas	0	0	0	0	0	0.01
+Otu162	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Geodermatophilaceae	Actinotelluria	0	0	0	0	0	0
+Otu163	1	Bacteria	Planctomycetes	Planctomycetia	Gemmatales	Gemmataceae	Gemmata	0	0	0	0	0	0
+Otu164	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Bogoriellaceae	Georgenia	0	0	0	0	0.01	0
+Otu165	1	Bacteria	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	Ellin506	0	0	0	0	0	0
+Otu166	1	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Lutibacterium	0	0	0	0	0	0.01
+Otu167	1	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Holdemania	0	0	0	0	0	0
+Otu168	1	Bacteria	Cyanobacteria	Chloroplast	Chlorophyta	Chlamydomonadaceae	Dunaliella	0	0	0	0	0	0
+Otu169	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	0	0.01	0	0	0	0
+Otu170	1	Bacteria	Verrucomicrobia	[Spartobacteria]	[Chthoniobacterales]	[Chthoniobacteraceae]	DA101	0	0	0	0	0.01	0
+Otu171	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	0	0	0	0	0	0.01
+Otu172	1	Bacteria	Chloroflexi	Chloroflexi	[Roseiflexales]	[Kouleothrixaceae]	Kouleothrix	0	0	0	0	0	0
+Otu173	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea	0	0	0	0	0.01	0
+Otu174	1	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Tepidimicrobium	0	0	0	0	0	0
+Otu175	1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	0	0	0	0	0	0
+Otu176	1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenella	0	0	0	0	0.01	0
+Otu177	1	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	0	0	0	0	0	0.01
+Otu178	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	0	0	0	0	0	0
+Otu179	1	Bacteria	Tenericutes	Mollicutes	Anaeroplasmatales	Anaeroplasmataceae	Anaeroplasma	0	0	0	0	0.01	0
+
+Table S5 continu……..
+Gut microbiota diversity at Species level
+OTU	Size	Kingdom	Phylum	Class	Order	Family	Genus	Species	GP-1	GP-2	GP-3	GP-4	GP-5	GP-6
+Otu001	9188	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium_celatum	10.51	33.06	60.3	35.16	9.47	22.02
+Otu002	5445	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Atopostipes	Atopostipes_suicloacalis	38.11	0.03	0.02	37.28	0.19	0.04
+Otu003	2760	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_pseudolongum	23.11	5.91	7.42	0.17	2.76	17.53
+Otu004	2713	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_hamsteri	13.16	0.3	2.03	0.06	0.48	36.28
+Otu005	1867	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Jeotgalicoccus	Jeotgalicoccus_psychrophilus	0.66	0.18	0	18.34	5.61	0.04
+Otu006	1652	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella_copri	0.14	2.34	12.53	0.13	33.21	5.33
+Otu007	1169	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus_bromii	0	24.74	0	0	0	3.53
+Otu008	933	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_vaginalis	2.54	9.29	6.26	0.53	0.48	1.78
+Otu009	786	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Clostridium	Clostridium_ruminantium	1.12	3.1	3.22	2.71	9.13	0.32
+Otu010	346	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_sciuri	3.81	0.7	0.02	1	1.19	0.04
+Otu011	335	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Ruminococcus]	[Ruminococcus]_gnavus	0.5	0.75	1.25	0.56	1.14	2.79
+Otu012	298	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia_producta	2.34	3.22	0.07	0	0.05	0.85
+Otu013	291	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus_albus	0.45	0.4	0	0.01	7.52	1.76
+Otu014	276	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus_flavefaciens	0	1.13	0	0.01	4.95	2.39
+Otu015	276	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Enterococcus	Enterococcus_casseliflavus	1.24	0.35	0.76	0.54	1.28	1.65
+Otu016	261	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium	Corynebacterium_stationis	0.12	3.4	0	0.69	2.52	0.06
+Otu017	178	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum	Subdoligranulum_variabile	0	0.81	0.29	0.03	4.8	0.55
+Otu018	144	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Staphylococcus	Staphylococcus_saprophyticus	0.54	1.96	0	0.31	0.43	0
+Otu019	96	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	Oceanobacillus_chironomi	0.23	0	0	0.89	0.05	0
+Otu020	93	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_animalis	0.17	0.08	1.16	0.02	0.33	0.38
+Otu021	76	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_coleohominis	0	1.18	0.27	0.17	0.05	0
+Otu022	75	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium	Clostridium_methylpentosum	0	1.13	0.25	0.01	0.62	0.09
+Otu023	74	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Clostridium	Clostridium_saccharogumia	0	1.76	0.02	0	0.05	0.04
+Otu024	60	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium_disporicum	0.06	0.35	0.34	0.26	0.19	0
+Otu025	59	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_uniformis	0	0.08	1.18	0	0.1	0.02
+Otu026	58	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Butyricicoccus	Butyricicoccus_pullicaecorum	0	0.73	0.04	0	0.9	0.15
+Otu027	57	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio_litoralis	0.02	0.2	0.09	0	1.52	0.23
+Otu028	53	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Weissella	Weissella_paramesenteroides	0.02	0.1	0.02	0.47	0.14	0
+Otu029	46	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Defluviitalea	Defluviitalea_saccharophila	0	0.33	0	0	1.52	0.02
+Otu030	43	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_acidifaciens	0.02	0	0.85	0.01	0.05	0.04
+Otu031	41	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Macrococcus	Macrococcus_brunensis	0	0	0	0.34	0.43	0
+Otu032	34	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter_lwoffii	0	0	0	0	1.62	0
+Otu033	32	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Veillonella	Veillonella_parvula	0	0	0.07	0	1.14	0.09
+Otu034	32	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia_faecis	0	0.05	0.02	0	0.05	0.53
+Otu035	31	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Oxalobacter	Oxalobacter_formigenes	0	0.78	0	0	0	0
+Otu036	25	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus_callidus	0	0.05	0	0	0	0.44
+Otu037	22	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium	Clostridium_clostridioforme	0	0	0	0	0.67	0.15
+Otu038	18	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter_rodentium	0	0.05	0.09	0	0.52	0.02
+Otu039	17	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium_mizutaii	0	0	0	0	0.81	0
+Otu040	16	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Alcaligenes	Alcaligenes_faecalis	0.25	0	0	0	0.14	0
+Otu041	15	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	Proteus_myxofaciens	0.29	0	0	0	0	0
+Otu042	15	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	Aggregatibacter_pneumotropica	0	0.15	0.04	0	0.29	0.02
+Otu043	14	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Papillibacter	Papillibacter_cinnamivorans	0	0	0.27	0	0.1	0
+Otu044	14	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella_aerofaciens	0	0.3	0	0	0	0.04
+Otu045	12	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	Proteus_vulgaris	0.23	0	0	0	0	0
+Otu046	12	Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Mucispirillum	Mucispirillum_schaedleri	0	0	0.13	0.01	0.14	0.04
+Otu047	11	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes_indistinctus	0	0.1	0	0	0.33	0
+Otu048	10	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter_schindleri	0	0	0	0	0.48	0
+Otu049	10	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_ovatus	0	0	0.22	0	0	0
+Otu050	8	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira	Oscillospira_guilliermondii	0	0.05	0	0	0.29	0
+Otu051	8	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_lugdunensis	0	0.03	0	0.06	0.05	0
+Otu052	7	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium	Clostridium_aldenense	0	0	0.11	0	0.1	0
+Otu053	7	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Selenomonas	Selenomonas_bovis	0	0.03	0	0.01	0.19	0.02
+Otu054	7	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia_inulinivorans	0	0	0.02	0.01	0.05	0.08
+Otu055	7	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_fragilis	0.06	0.03	0	0.01	0	0.04
+Otu056	7	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus_parainfluenzae	0	0	0.13	0	0	0.02
+Otu057	6	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium_mesophilicum	0	0	0	0	0.1	0.08
+Otu058	5	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus_garvieae	0	0.13	0	0	0	0
+Otu059	5	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Virgibacillus	Virgibacillus_halophilus	0.02	0	0	0.04	0	0
+Otu060	5	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas_diminuta	0	0	0	0	0.24	0
+Otu061	5	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Anaerorhabdus	Anaerorhabdus_furcosa	0	0	0.09	0	0.05	0
+Otu062	4	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Sporobacter	Sporobacter_termitidis	0	0.03	0	0	0.1	0.02
+Otu063	4	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_ruminis	0	0.03	0.07	0	0	0
+Otu064	4	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter_guillouiae	0.02	0	0	0	0	0.06
+Otu065	4	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea_longicatena	0	0	0.02	0.01	0.05	0.02
+Otu066	4	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Robinsoniella	Robinsoniella_peoriensis	0.04	0.05	0	0	0	0
+Otu067	4	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Kineosporiaceae	Quadrisphaera	Quadrisphaera_granulorum	0	0	0	0	0.1	0.04
+Otu068	3	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	Ruminococcus_lactaris	0.02	0.03	0	0	0	0.02
+Otu069	3	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Virgibacillus	Virgibacillus_marismortui	0.04	0	0	0.01	0	0
+Otu070	3	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_equorum	0.04	0	0	0.01	0	0
+Otu071	3	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	Arthrobacter_sulfureus	0	0	0	0	0.05	0.04
+Otu072	3	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_subantarcticus	0	0.08	0	0	0	0
+Otu073	3	Bacteria	Cyanobacteria	Oscillatoriophycideae	Chroococcales	Xenococcaceae	Chroococcidiopsis	Chroococcidiopsis_thermalis	0	0.08	0	0	0	0
+Otu074	2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_caccae	0	0	0.02	0	0	0.02
+Otu075	2	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Succinispira	Succinispira_mobilis	0	0	0.04	0	0	0
+Otu076	2	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas_asaccharolytica	0	0	0	0	0.05	0.02
+Otu077	2	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter_winghamensis	0	0	0	0	0.1	0
+Otu078	2	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Dermabacteraceae	Brachybacterium	Brachybacterium_conglomeratum	0.02	0	0	0	0.05	0
+Otu079	2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella_stercorea	0	0.03	0	0	0	0.02
+Otu080	2	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter_rhizosphaerae	0	0	0	0	0	0.04
+Otu081	2	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio_oxamicus	0	0	0.04	0	0	0
+Otu082	2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Magnetospirillum	Magnetospirillum_magnetotacticum	0	0	0	0	0.05	0.02
+Otu083	2	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Rhodobacter	Rhodobacter_sphaeroides	0.04	0	0	0	0	0
+Otu084	2	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter_apodemus	0	0.05	0	0	0	0
+Otu085	2	Bacteria	Spirochaetes	Spirochaetes	Sphaerochaetales	Sphaerochaetaceae	wall-less	wall-less_spirochete	0	0.05	0	0	0	0
+Otu086	2	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Weissella	Weissella_hellenica	0	0	0	0.02	0	0
+Otu087	2	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Atopococcus	Atopococcus_tabaci	0	0	0	0.02	0	0
+Otu088	2	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas_stutzeri	0	0	0	0	0.1	0
+Otu089	2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Macellibacteroides	Macellibacteroides_fermentans	0	0.05	0	0	0	0
+Otu090	2	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Mitsuokella	Mitsuokella_multacida	0	0	0.04	0	0	0
+Otu091	2	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium	Clostridium_citroniae	0	0	0.04	0	0	0
+Otu092	2	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Pediococcus	Pediococcus_acidilactici	0	0	0	0.01	0.05	0
+Otu093	2	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium_multivorum	0	0	0	0	0.05	0.02
+Otu094	1	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	Peredibacter	Peredibacter_starrii	0	0	0	0.01	0	0
+Otu095	1	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_succinus	0	0	0	0	0.05	0
+Otu096	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Cellulosibacter	Cellulosibacter_alkalithermophilus	0	0.03	0	0	0	0
+Otu097	1	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_adolescentis	0	0.03	0	0	0	0
+Otu098	1	Bacteria	Lentisphaerae	[Lentisphaeria]	Victivallales	Victivallaceae	Victivallis	Victivallis_vadensis	0	0.03	0	0	0	0
+Otu099	1	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Sporosarcina	Sporosarcina_aquimarina	0	0	0	0	0.05	0
+Otu100	1	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus_influenzae	0	0	0	0	0.05	0
+Otu101	1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Melissococcus	Melissococcus_plutonius	0	0	0	0	0.05	0
+Otu102	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella	Skermanella_xinjiangensis	0	0	0	0	0.05	0
+Otu103	1	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas_vesicularis	0	0.03	0	0	0	0
+Otu104	1	Bacteria	Cyanobacteria	Oscillatoriophycideae	Chroococcales	Xenococcaceae	Stanieria	Stanieria_cyanosphaera	0	0	0	0	0.05	0
+Otu105	1	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_bifidum	0	0	0	0	0.05	0
+Otu106	1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	Oceanobacillus_oncorhynchi	0	0	0	0	0	0.02
+Otu107	1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_acidipiscis	0	0	0.02	0	0	0
+Otu108	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Marvinbryantia	Marvinbryantia_formatexigens	0	0	0	0	0.05	0
+Otu109	1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_eggerthii	0	0	0	0	0	0.02
+Otu110	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus_anaerobius	0	0	0	0	0	0.02
+Otu111	1	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Macrococcus	Macrococcus_caseolyticus	0	0	0	0	0	0.02
+Otu112	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Veillonella	Veillonella_dispar	0	0	0	0	0	0.02
+Otu113	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium	Corynebacterium_mastitidis	0.02	0	0	0	0	0
+Otu114	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Brevibacteriaceae	Brevibacterium	Brevibacterium_casei	0	0	0	0	0.05	0
+Otu115	1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Barnesiellaceae]	Barnesiella	Barnesiella_intestinihominis	0	0.03	0	0	0	0
+Otu116	1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	Oceanobacillus_caeni	0.02	0	0	0	0	0
+Otu117	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus_aminovorans	0	0	0	0	0	0.02
+Otu118	1	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium_thermacidophilum	0	0	0.02	0	0	0
+Otu119	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Pseudobutyrivibrio	Pseudobutyrivibrio_xylanivorans	0	0	0	0	0.05	0
+Otu120	1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	Oceanobacillus_profundus	0	0	0	0.01	0	0
+Otu121	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Aurantimonas	Aurantimonas_kwangyangensis	0	0	0	0	0	0.02
+Otu122	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Geodermatophilaceae	Actinotelluria	Actinotelluria_brasiliensis	0	0	0	0.01	0	0
+Otu123	1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus_coagulans	0.02	0	0	0	0	0
+Otu124	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospira	Lachnospira_pectinoschiza	0	0	0	0	0.05	0
+Otu125	1	Bacteria	Cyanobacteria	Chloroplast	Chlorophyta	Chlamydomonadaceae	Dunaliella	Dunaliella_tertiolecta	0	0.03	0	0	0	0
+Otu126	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium	Clostridium_islandicum	0	0	0	0	0.05	0
+Otu127	1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_minor	0	0	0	0	0	0.02
+Otu128	1	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Flexispira	Flexispira_rappini	0	0.03	0	0	0	0
+Otu129	1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Virgibacillus	Virgibacillus_pantothenticus	0	0	0	0	0	0.02
+Otu130	1	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Bacillus	Bacillus_psychrodurans	0	0	0	0	0.05	0
+Otu131	1	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Bacillus	Bacillus_odysseyi	0	0	0	0	0.05	0
+Otu132	1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea	Bosea_genosp.	0	0	0	0	0.05	0
+Otu133	1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_reuteri	0	0	0.02	0	0	0
+Otu134	1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_plebeius	0	0	0.02	0	0	0
+Otu135	1	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio_longreachensis	0	0	0.02	0	0	0
+Otu136	1	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium	Clostridium_hathewayi	0	0	0	0	0	0.02
+Otu137	1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_helveticus	0	0.03	0	0	0	0
+Otu138	1	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter_brantae	0	0	0	0	0.05	0
+Otu139	1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus_thermodenitrificans	0	0	0	0.01	0	0
+Otu140	1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Brevibacteriaceae	Brevibacterium	Brevibacterium_paucivorans	0	0	0	0	0.05	0
+Otu141	1	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	Brevibacillus_thermoruber	0	0	0	0	0	0.02
+Otu142	1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes_onderdonkii	0	0	0	0.01	0	0
+
